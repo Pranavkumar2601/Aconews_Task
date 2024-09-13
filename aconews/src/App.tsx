@@ -37,7 +37,7 @@ export default function App() {
     const fetchNews = async () => {
       try {
         setLoading(true);
-        const API_KEY = "8c9e7b8dbc70525c44060abf925d50f7";
+        const API_KEY = process.env.REACT_APP_GNEWS_API_KEY;
         const url = searchQuery
           ? `https://gnews.io/api/v4/search?q=${searchQuery}&token=${API_KEY}&lang=en&page=${currentPage}&max=10`
           : `https://gnews.io/api/v4/top-headlines?category=${category}&token=${API_KEY}&lang=en&page=${currentPage}&max=10`;
