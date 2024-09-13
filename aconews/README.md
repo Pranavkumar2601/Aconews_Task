@@ -1,6 +1,4 @@
-# Let's create the README.md file with the provided content.
 
-readme_content = """
 # 🌐 ACONEWS
 
 ACONEWS is a responsive news application built with **React** and powered by the **GNews API**. It provides a sleek, user-friendly interface with advanced features like category filtering, pagination, and article search.
