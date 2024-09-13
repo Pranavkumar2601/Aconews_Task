@@ -188,17 +188,10 @@ The app is deployed on **Firebase Hosting**. Follow the steps below to deploy yo
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 Feel free to clone the repo, make modifications, and contribute! 😊
 """
 
-# Saving the content to a README.md file
-with open("/mnt/data/README.md", "w") as readme_file:
-    readme_file.write(readme_content)
 
-"/mnt/data/README.md file created successfully!"
