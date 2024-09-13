@@ -5,7 +5,7 @@ ACONEWS is a responsive news application built with **React** and powered by the
 
 
 ## 🚀 Live Demo
-The app is live and hosted on [Firebase](https://your-app-link.firebaseapp.com).
+The app is live and hosted on [Firebase](https://aconewsassignment.web.app/).
 
 ## Table of Contents
 - [Features](#features)
