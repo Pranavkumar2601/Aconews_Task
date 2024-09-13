@@ -1,5 +1,5 @@
 # Aconews_Task
-our task, should you bravely accept it, is to build a "News App" from scratch called ACONEWS! 🎉
+Build a "News App" from scratch called ACONEWS! 🎉
 
 But wait! We’re not talking about just any ol' news app – this one’s powered by https://gnews.io/  (free tier only because we're humble). It’s going to be the latest scoop machine, feeding users hot-off-the-press news from all over.
 
